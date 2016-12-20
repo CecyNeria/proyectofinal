@@ -1,0 +1,72 @@
+/*
+header {
+	background-color: gray;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+*/
+
+h1 {
+	font-size: 40px;
+}
+
+footer {
+	background-color: gray;
+	color: #fff;
+}
+
+.navbar-inverse{
+	background-color: red;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: green !important;
+	background-color: rgba(0, 0, 0, 0.2);
+	border-radius: 50px;
+}
+
+.navbar-inverse .navbar-nav>li>a:visited{
+	color: peru;
+}
+
+
+
+.iconosContacto{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.iconosContacto .glyphicon{
+	color: black;
+	font-size: 50px;
+}
+
+
+
+.google-maps{
+	position: relative;
+	padding-bottom: 350px;
+	height: 0px;
+	overflow: hidden;
+}
+
+.google-maps iframe{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100% !important;
+	height: 350px !important;
+}
+
+.embed-responsive{
+	margin-top: 15px;
+}
