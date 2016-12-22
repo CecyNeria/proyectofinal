@@ -29,14 +29,22 @@ footer {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover{
-	color: green !important;
-	background-color: rgba(0, 0, 0, 0.2);
-	border-radius: 50px;
+	color: gray !important;
+	background-color: #FFFFA6;
+	border-radius: 30px;
 }
 
+
+/*
 .navbar-inverse .navbar-nav>li>a:visited{
 	color: peru;
 }
+
+
+.active {
+	color: gray !important;
+}
+*/
 
 .lettering{
 	background-color: #fff;
