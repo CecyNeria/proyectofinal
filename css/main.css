@@ -17,15 +17,15 @@ footer {
 }
 
 .navbar-inverse{
-	background-color: #10cfc8;
-	color: #fff;
+	background-color: #FFF;
+	color: #10cfc8;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin-bottom: 0px;
 }
 
 .navbar-inverse .navbar-nav>li>a{
-	color: #fff;
+	color: #10cfc8;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover{
@@ -65,12 +65,12 @@ footer {
 
 /* Style the buttons that are used to open and close the accordion panel */
 button.accordion {
-    background-color: #eee;
+    background-color: orange;
     color: #444;
     cursor: pointer;
     padding: 18px;
     width: 100%;
-    text-align: left;
+    text-align: center;
     border: none;
     outline: none;
     transition: 0.4s;
@@ -78,7 +78,7 @@ button.accordion {
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 button.accordion.active, button.accordion:hover {
-    background-color: #ddd;
+    background-color: #FFFFA6;
 }
 
 /* Style the accordion panel. Note: hidden by default */
