@@ -41,7 +41,7 @@ footer {
 
 .navbar-inverse .navbar-nav>li>a:hover{
 	color: #fff !important;
-	background-color: #f49516;
+	background-color: #b4b712;
 	border-radius: 30px;
 }
 
@@ -73,6 +73,17 @@ footer {
 	color: #fff;
 }
 
+
+
+#imagen01{
+	background-color: #000;
+	height: auto;
+}
+
+#imagen02{
+	background-color: #f49516;
+	height: auto;
+}
 
 
 /* Style the buttons that are used to open and close the accordion panel */
